@@ -224,21 +224,20 @@ aside p{
   margin-bottom: 10px;
 }
 
-
+.recommandation p{
+  width: 200px;
+}
 
 
       /*Partie Responsive*/
 
-  @media only screen and (min-width : 1824px){
-
-  }
 
   @media all and (min-width: 768px) and (max-width: 1024px){
    
    body{
   font-size: 1.2em; 
   min-width: 100px;
- }
+  }
 
 #container{
   display: flex;
